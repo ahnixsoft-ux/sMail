@@ -1,5 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://raw.githubusercontent.com/ahnixsoft-ux/sMail/main/release/sMail_v1.0.0.zip",
+  "latest_version": "1.1.0",
+  "download_url": "...",
+  "store_url": "https://ahnix.gumroad.com/l/smail-v110",
   "mandatory": false
 }
